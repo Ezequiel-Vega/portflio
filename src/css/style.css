@@ -13,16 +13,26 @@
 
 .title-yusei {
   font-family: "Yusei Magic", sans-serif;
+  font-size: 3em;
 }
 
 .about {
   padding-top: 2em;
   padding-bottom: 3em;
-  background-color: #ad098e;
+  background-color: #ff0d59;
   color: #ffffff;
 }
 
 .about_description {
   font-family: "Roboto", sans-serif;
-  font-size: 1.2em;
+  font-size: 1.3em;
+}
+
+.img-avatar {
+  margin: 0;
+  padding: 0;
+  width: 370px;
+  height: 370px;
+  border-radius: 50%;
+  border: 10px solid #ffffff;
 }
