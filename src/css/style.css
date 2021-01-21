@@ -58,3 +58,18 @@
   background-color: #ad098e;
   color: #ffffff;
 }
+
+.card-text-portfolio {
+  font-family: "Roboto", sans-serif;
+  color: #202020;
+}
+
+.btn-primary-portfolio {
+  background-color: #ad098e;
+  color: #ffffff;
+}
+
+.btn-primary-portfolio:hover {
+  background-color: #ff0d59;
+  color: #ffffff;
+}
